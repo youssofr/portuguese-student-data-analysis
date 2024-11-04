@@ -1,7 +1,7 @@
 # Student Scores
 ## Project Description
 
-In this project I have worked dataset is of student achievement in secondary education of two Portuguese schools. The dataset is available on kaggle from this link. The data is originally from Paulo Cortez, University of Minho, and available on this link. 
+In this data analysis learning project I have worked dataset is of student achievement in secondary education of two Portuguese schools. The dataset is available on kaggle from this link. The data is originally from Paulo Cortez, University of Minho, and available on this link. 
 
 I have performed through exploratory analysis on the data in order to find useful insight and interesting correlations between different factors.
 
